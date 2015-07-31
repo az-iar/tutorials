@@ -9,3 +9,4 @@
 - http://inchoo.net/magento/custom-shipping-method-in-magento/
 - http://inchoo.net/magento/create-configuration-for-your-magento-extension/
 - http://inchoo.net/magento/getting-started-with-building-admin-module-in-magento/
+- http://codingbasics.net/get-magento-attribute-name-value/
