@@ -10,3 +10,5 @@
 - http://inchoo.net/magento/create-configuration-for-your-magento-extension/
 - http://inchoo.net/magento/getting-started-with-building-admin-module-in-magento/
 - http://codingbasics.net/get-magento-attribute-name-value/
+- http://inchoo.net/category/magento/events-observers/
+- http://inchoo.net/magento/magento-configurable-cron/
