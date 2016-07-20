@@ -12,3 +12,4 @@
 - http://codingbasics.net/get-magento-attribute-name-value/
 - http://inchoo.net/category/magento/events-observers/
 - http://inchoo.net/magento/magento-configurable-cron/
+- http://alanstorm.com/magento_acl_authentication
